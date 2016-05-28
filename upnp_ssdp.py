@@ -2,7 +2,7 @@
 # -*- coding: us-ascii -*-
 # vim:ts=4:sw=4:softtabstop=4:smarttab:expandtab
 #
-"""Simple UPnP ssdp libray for clients and servers.
+"""Simple UPnP ssdp library for clients and servers.
 
 Almost certainly *not* 100% compliant :-)
 
