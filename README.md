@@ -8,3 +8,16 @@ Other libraries to consider:
   * http://brisa.garage.maemo.org/
       * http://brisa.garage.maemo.org/doc/html/upnp/ssdp.html
   * pydlnadms
+
+## Info
+
+upnp_ssdp.py can be imported to add discovery support to  an application,
+either to find services or to advertise a new service.
+
+Example search:
+
+    upnp_ssdp.py
+
+Example advertise service:
+
+    upnp_ssdp.py server
